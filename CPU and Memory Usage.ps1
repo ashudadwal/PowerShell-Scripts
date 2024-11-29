@@ -1,5 +1,5 @@
 # Set thresholds for CPU and memory usage
-$CPU_Threshold = 1
+$CPU_Threshold = 90
 $Memory_Threshold = 90
 
 # Set log file path
